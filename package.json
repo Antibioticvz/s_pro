@@ -1,0 +1,20 @@
+{
+  "author": "Victor Zadorozhnyy",
+  "name": "s_pro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "Quickly create an opinionated react structure",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "js"
+  ],
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "inquirer": "^6.3.1",
+    "shell-exec": "^1.0.2"
+  }
+}
