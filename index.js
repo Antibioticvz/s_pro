@@ -11,8 +11,6 @@ const inquirer = require("inquirer");
     }
   ])
   if(framework !== 'NO'){
-    
-    exec('echo Hi!')
     console.log("Project successfully created")
     console.log("Happy codding!")
   }
