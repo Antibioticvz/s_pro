@@ -1,6 +1,6 @@
 {
-  "author": "Victor Zadorozhnyy",
   "name": "s_pro",
+  "author": "Victor Zadorozhnyy",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -16,5 +16,13 @@
     "child_process": "^1.0.2",
     "inquirer": "^6.3.1",
     "shell-exec": "^1.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antibioticvz/s_pro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Antibioticvz/s_pro/issues"
+  },
+  "homepage": "https://github.com/Antibioticvz/s_pro#readme"
 }
